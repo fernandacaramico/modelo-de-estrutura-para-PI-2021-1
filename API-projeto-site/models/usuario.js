@@ -23,11 +23,6 @@ module.exports = (sequelize, DataTypes) => {
 			type: DataTypes.STRING,
 			allowNull: false
 		},
-		cpf_backend: {
-			field: 'cpf_bd',
-			type: DataTypes.STRING,
-			allowNull: false
-		},
 		senha: {
 			field: 'senha',
 			type: DataTypes.STRING,
