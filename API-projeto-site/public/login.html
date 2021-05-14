@@ -35,7 +35,7 @@
 
                 <form id="form_login" method="post" onsubmit="return entrar()">
                     Usuário:
-                    <input type="text" class="input-padrao" name="login">
+                    <input type="text" class="input-padrao" name="login_html">
                     <br>
                     Senha:
                     <input type="password" class="input-padrao" name="senha">
@@ -79,7 +79,7 @@
 
                 resposta.json().then(json => {
 
-                    sessionStorage.login_usuario_meuapp = json.login;
+                    sessionStorage.login_usuario_meuapp = json.login_html;
                     sessionStorage.nome_usuario_meuapp = json.nome;
 
                     window.location.href = 'tempo-real.html';

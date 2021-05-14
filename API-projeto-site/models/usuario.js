@@ -18,8 +18,13 @@ module.exports = (sequelize, DataTypes) => {
 			type: DataTypes.STRING,
 			allowNull: false
 		},
-		login: {
-			field: 'login',
+		login_backend: {
+			field: 'login_bd',
+			type: DataTypes.STRING,
+			allowNull: false
+		},
+		cpf_backend: {
+			field: 'cpf_bd',
 			type: DataTypes.STRING,
 			allowNull: false
 		},
@@ -30,7 +35,7 @@ module.exports = (sequelize, DataTypes) => {
 		}
 	}, 
 	{
-		tableName: 'usuario', 
+		tableName: 'usuario_bd', 
 		freezeTableName: true, 
 		underscored: true,
 		timestamps: false,

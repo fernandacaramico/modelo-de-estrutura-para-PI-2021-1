@@ -12,6 +12,7 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "sequelize": "^5.21.2",
-    "tedious": "^6.6.0"
+    "tedious": "^6.6.0",
+    "mysql2": "^2.2.5"
   }
 }
