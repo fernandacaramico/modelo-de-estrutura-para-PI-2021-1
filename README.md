@@ -1,4 +1,14 @@
-# :zap: modelo-de-estrutura-para-PI-2021-1
+# ⚠️ Este repositório está desatualizado e foi descontinuado
+# ⚠️ Este repositório está desatualizado e foi descontinuado
+# ⚠️ Este repositório está desatualizado e foi descontinuado
+
+Utilize a estrutura presente em -> https://github.com/BandTec/api-projeto-site-1sem + o Manual disponibilizado pelo seu Professor de PI de como criar Aplicação Node em Nuvem Azure.
+
+# ⚠️ Este repositório está desatualizado e foi descontinuado
+# ⚠️ Este repositório está desatualizado e foi descontinuado
+# ⚠️ Este repositório está desatualizado e foi descontinuado
+
+## :zap: modelo-de-estrutura-para-PI-2021-1
 
 Siga este modelo de estrutura de repositório para seu projeto de **PI/2021-1** @ Bandtec
 
